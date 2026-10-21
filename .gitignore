@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+._*
+
+# Arduino-Build
+build/
+*.bin.tmp
+
+# Editor
+*.swp
