@@ -5,7 +5,7 @@ Ein eigenständiges Tamagotchi im Streakhunter-Universum, als Firmware für das
 Abenteuer, kämpfe in der Arena und lass es sich entwickeln – alles auf einem
 kleinen AMOLED-Handheld, ganz ohne Löten.
 
-![Board](https://www.waveshare.com/esp32-s3-touch-amoled-1.8.htm)
+Zum Board: [https://www.waveshare.com/esp32-s3-touch-amoled-1.8.htm](https://www.waveshare.com/esp32-s3-touch-amoled-1.8.htm)
 
 ---
 
