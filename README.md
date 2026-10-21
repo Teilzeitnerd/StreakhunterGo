@@ -17,7 +17,7 @@ Du brauchst nur **ein** fertiges Board, kein Zubehör, kein Löten:
   AMOLED, kapazitiver Touch, Akku-Management (AXP2101), Echtzeituhr (PCF85063),
   SD-Slot, 400 mAh Akku und Gehäuse sind dabei.
 - Ein **USB-C-Kabel** zum Flashen.
-- microSD-Kartefür das Beast bzw. die Beasts.
+- microSD-Karte/n für das Beast bzw. die Beasts.
 
 ---
 
